@@ -1,0 +1,60 @@
+html{
+	background-color: #4AD9E9;
+	padding: 1%;
+}
+
+body {
+	padding: 5%;
+	background-color: #F5FFFA;
+}
+
+#biotitle {
+	font-family: "fanstasy", Fantasy;
+	padding-top: 10%;
+	font-size: 40px;
+	text-align: center;
+	padding-bottom: 5%;
+}
+
+#biobody {
+	padding-bottom: 10%;
+}
+
+h3 {
+	font-family: "fanstasy", Fantasy;
+	text-align: center;
+}
+
+p{
+	font-family: "fanstasy", Fantasy;
+}
+
+a{
+	font-family: "fanstasy", Fantasy;
+	font-size: 30px;
+	color: black;
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+	font-family: "fanstasy", Fantasy;
+	font-size: 40px;
+}
+
+li{
+	font-family: "fanstasy", Fantasy;
+}
+
+h2 {
+	text-align: center;
+}
+
+img {
+	border: solid;
+	border-color: #4AD9E9;
+	border-width: 15px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
